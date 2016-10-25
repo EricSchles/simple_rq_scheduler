@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: simple-scheduler
+Version: 0.1.0
+Summary: simple_scheduler is a wrapper for RQ
+Home-page: https://github.com/EricSchles/simple_rq_scheduler
+Author: Eric Schles
+Author-email: eric.schles@gsa.gov
+License: BSD
+Description: UNKNOWN
+Keywords: rq scheduler
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
